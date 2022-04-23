@@ -52,7 +52,7 @@ HTTP route prefix : http://localhost:3000/api/v1/
 ## View a file :
 ##### HTTP route : http://localhost:3000/uploads/1650655217010-446692701.jpeg
 
-##### Chnage app.js file with following :
+##### Change app.js file with following :
 
 ```bash
 ...
