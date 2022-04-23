@@ -9,7 +9,7 @@ const downloadFile = async (req, res) => {
     // const filePath = `${process.env.APP_BASE_URL}/${__dirname}/../${file.path}`;
     const sendFilePath = `${process.env.APP_BASE_URL}/${file.path}`;
 
-    res.status(200).json({ success: 'Failed', link: sendFilePath })
+    res.status(200).json({ success: 'Success', link: sendFilePath })
 }
 
 
